@@ -1,0 +1,6 @@
+[
+    {"name":"ohad","admin":true,"password":"1234"},
+    {"name":"hadas","admin":true,"password":"1235"},
+    {"name":"mitzi","admin":false,"password":"1236"},
+    {"name":"guy","admin":false,"password":"1237"}
+]
